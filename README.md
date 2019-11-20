@@ -1,2 +1,2 @@
 # Simulation
-Designing a statistical model by simulating outcomes of an experiment.
+Designing a statistical model in python and simulating outcomes of an experiment.
